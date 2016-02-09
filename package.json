@@ -24,7 +24,7 @@
     "rimraf": "^2.5.1",
     "semantic-release": "^4.3.5",
     "standard": "^6.0.4",
-    "tap": "^5.4.2"
+    "tap": "^5.4.3"
   },
   "homepage": "https://github.com/semantic-release/condition-nsp#readme",
   "keywords": [
