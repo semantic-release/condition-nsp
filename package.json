@@ -22,7 +22,7 @@
     "nyc": "^5.3.0",
     "proxyquire": "^1.7.1",
     "rimraf": "^2.5.1",
-    "semantic-release": "^4.3.5",
+    "semantic-release": "^8.0.0",
     "standard": "^6.0.4",
     "tap": "^5.4.2"
   },
@@ -51,5 +51,6 @@
     "test:style": "standard",
     "test:suite": "nyc tap --no-cov .test/{scenarios,specs}/*.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
-  }
+  },
+  "version": "0.0.0-development"
 }
