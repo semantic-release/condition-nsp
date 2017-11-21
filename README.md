@@ -1,5 +1,7 @@
 # semantic-release condition-nsp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/semantic-release/condition-nsp.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/%40semantic-release%2Fcondition-nsp.svg)](http://badge.fury.io/js/%40semantic-release%2Fcondition-nsp)
 [![Build Status](https://travis-ci.org/semantic-release/condition-nsp.svg?branch=master)](https://travis-ci.org/semantic-release/condition-nsp)
 [![Coverage Status](https://coveralls.io/repos/semantic-release/condition-nsp/badge.svg?branch=master&service=github)](https://coveralls.io/github/semantic-release/condition-nsp?branch=master)
